@@ -1,0 +1,7 @@
+[project]
+name = "Political Signaling Sentiment Analysis"
+version = "0.1.0"
+description = "Utilizes machine learning to identify whether a Reddit post was created by someone with a political username solely using the content of replies to that post."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
