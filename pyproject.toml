@@ -7,6 +7,9 @@ requires-python = ">=3.13"
 dependencies = [
     "convokit>=4.0.0",
     "pip>=26.0.1",
+    "polars>=1.39.3",
+    "pyprojroot>=0.3.0",
+    "transformers>=4.57.6",
 ]
 
 [dependency-groups]

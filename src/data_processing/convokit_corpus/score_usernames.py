@@ -231,8 +231,8 @@ def score_username(username: str) -> float:
 
 
 def main():
-    input_path = "/Users/paulterrasi/Documents/Political-Signaling-Sentiment-Analysis/src/data_processing/convokit_corpus/all_usernames.csv"
-    output_path = "/Users/paulterrasi/Documents/Political-Signaling-Sentiment-Analysis/src/data_processing/convokit_corpus/all_usernames_scored.csv"
+    input_path = "/Users/paulterrasi/Documents/Political-Signaling-Sentiment-Analysis/data/all_usernames.csv"
+    output_path = "/Users/paulterrasi/Documents/Political-Signaling-Sentiment-Analysis/data/all_usernames_scored.csv"
 
     print("Scoring usernames...", flush=True)
     total = 0
